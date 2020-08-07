@@ -1,0 +1,94 @@
+{
+    "Tax ID": [
+        "TIN",
+        "94.7%"
+    ],
+    "Last Name": [
+        "Last Name",
+        "85.8%"
+    ],
+    "First Name": [
+        "First Name",
+        "81.7%"
+    ],
+    "Name Suffix": [
+        "Title",
+        "76.5%"
+    ],
+    "Degree": [
+        "Degree",
+        "57.3%"
+    ],
+    "NPI": [
+        "NPI",
+        "73.5%"
+    ],
+    "Group/Site Location Name DBA": [
+        "Group Name",
+        "97.3%"
+    ],
+    "Group NPI": [
+        "Group NPI",
+        "92.2%"
+    ],
+    "Is this address the provider's primary or secondary practice address?  (Primary or Secondary)": [
+        "Address Type",
+        "82.6%"
+    ],
+    "Address": [
+        "Address",
+        "77.9%"
+    ],
+    "City": [
+        "City",
+        "36.5%"
+    ],
+    "State": [
+        "State",
+        "35.3%"
+    ],
+    "Zip Code (00000)": [
+        "Zip",
+        "69.8%"
+    ],
+    "Phone Number (000-000-0000)": [
+        "Phone",
+        "80.9%"
+    ],
+    "Should Address appear in the Directory": [
+        "Practice Address",
+        "33.4%"
+    ],
+    "Fax Number (000-000-0000)": [
+        "Fax",
+        "84.7%"
+    ],
+    "Office Hours": [
+        "Office Hours",
+        "99.3%"
+    ],
+    "Billing Address": [
+        "Billing Address",
+        "83.5%"
+    ],
+    "Billing City": [
+        "Billing City",
+        "71.6%"
+    ],
+    "Billing State": [
+        "Billing State",
+        "65.2%"
+    ],
+    "Billing Zip (00000)": [
+        "Billing Zip",
+        "78.8%"
+    ],
+    "Billing Phone Number": [
+        "Billing Phone",
+        "82.4%"
+    ],
+    "Billing Fax Number": [
+        "Billing Fax",
+        "94.4%"
+    ]
+}

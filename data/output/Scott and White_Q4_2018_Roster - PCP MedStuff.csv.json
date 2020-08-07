@@ -1,0 +1,122 @@
+{
+    "NPI": [
+        "NPI",
+        "85.7%"
+    ],
+    "Taxonomy Code": [
+        "Taxonomy",
+        "90.1%"
+    ],
+    "Last Name": [
+        "Last Name",
+        "83.5%"
+    ],
+    "First Name": [
+        "First Name",
+        "78.3%"
+    ],
+    "Middle Name": [
+        "Middle Name",
+        "69.1%"
+    ],
+    "Title": [
+        "Title",
+        "81.7%"
+    ],
+    "DOB": [
+        "Date Of Birth",
+        "39.3%"
+    ],
+    "Initial Appointment Date": [
+        "Date Of Birth",
+        "60.2%"
+    ],
+    "Last Reappt Date": [
+        "Date Of Birth",
+        "20.3%"
+    ],
+    "Education/ Degree": [
+        "Degree",
+        "71.1%"
+    ],
+    "License Agency": [
+        "License Agency",
+        "76.6%"
+    ],
+    "License Number": [
+        "License Number",
+        "93.3%"
+    ],
+    "DEA": [
+        "DEA",
+        "92.2%"
+    ],
+    "Specialty": [
+        "Specialty",
+        "67.5%"
+    ],
+    "PCP\\SCP": [
+        "Provider Type",
+        "64.1%"
+    ],
+    "Provider Practice Address": [
+        "Practice Address",
+        "91.4%"
+    ],
+    "City": [
+        "City",
+        "63.9%"
+    ],
+    "State": [
+        "State",
+        "23.7%"
+    ],
+    "Zip": [
+        "Zip",
+        "86.8%"
+    ],
+    "Phone": [
+        "Phone",
+        "87.6%"
+    ],
+    "WRID Phone": [
+        "Phone",
+        "82.4%"
+    ],
+    "Organization  Name": [
+        "Group Name",
+        "97.9%"
+    ],
+    "Board Certification Board  Name": [
+        "Board Name",
+        "44.8%"
+    ],
+    "1st Board Certification Specialty": [
+        "Board Cert 1",
+        "84.5%"
+    ],
+    "Status": [
+        "Board Cert 1 Status",
+        "97.2%"
+    ],
+    "Start Date": [
+        "Board Cert 1 Date",
+        "33.9%"
+    ],
+    "End Date": [
+        "Board Cert 1 Exp Date",
+        "79.1%"
+    ],
+    "Primary Affiliation": [
+        "Primary Affiliation",
+        "69.7%"
+    ],
+    "Affilation": [
+        "Affiliation",
+        "88.3%"
+    ],
+    "Affiliation": [
+        "Affiliation",
+        "93.6%"
+    ]
+}
